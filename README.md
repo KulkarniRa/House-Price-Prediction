@@ -105,3 +105,4 @@ Missing Data - From the graph below, we can infer that the columns PoolQC, MiscF
 
 ![](Images/Barplot.png)
 
+
