@@ -100,4 +100,8 @@ The dataset is downloaded into Google colab. The details about the data and vari
 
 Exploring the data is key to draw meaningful insights from the data. 
 
+Missing Data - From the graph below, we can infer that the columns PoolQC, MiscFeature, Alley and Fence have missing values of 99%, 96%, 93% and 80% respectively.
+
+
+<img> 
 
