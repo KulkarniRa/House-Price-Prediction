@@ -115,3 +115,4 @@ After applying log transformation, the traget varible is normally distributed as
 
 ![](Images/skewness.png)
 
+
