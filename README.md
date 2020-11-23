@@ -115,5 +115,8 @@ After applying log transformation, the traget varible is normally distributed as
 
 ![](Images/skewness.png)
 
+Checking correlation between numerical variables
+
+![](Images/Correlationplot.png)
 
 
