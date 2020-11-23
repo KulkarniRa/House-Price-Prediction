@@ -109,8 +109,9 @@ Checking the distribution of the target variable "SalePrice".
 
 ![](Images/Distributionplot.png)
 
+The target variable "SalePrice" has a right skewed distribution. A normally distributed target variable helps in better modelling the relationship between dependent and independent variables. Hence we need to apply log transformation so that the target variable becomes normally distributed.
 
-Checking the distribution of the target variable "SalePrice".
+After applying log transformation, the traget varible is normally distributed as show in the graph below.
 
-! [](Images/Distributionplot.png)
+![](Images/skewness.png)
 
