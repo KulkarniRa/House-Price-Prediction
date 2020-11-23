@@ -107,5 +107,10 @@ Missing Data - From the graph below, we can infer that the columns PoolQC, MiscF
 
 Checking the distribution of the target variable "SalePrice".
 
+![](Images/Distributionplot.png)
+
+
+Checking the distribution of the target variable "SalePrice".
+
 ! [](Images/Distributionplot.png)
 
